@@ -11,7 +11,7 @@ Example Screenshots with watermarking
 ## Module 3 - Adding a Storage Layer
 ## Create a Website on S3
 
-Example Screenshots with watermarking
+
 
 ## Using AWS Systems Manager
 
@@ -24,24 +24,27 @@ Example Screenshots with watermarking
 
 ## Module 5 - Adding a Database Layer
 
-
+Example Screenshots with watermarking
 
 ## Module 6 - Creating a Networking Environment
 
-
+Example Screenshots with watermarking
 
 ## Module 7 - Connecting Netowrks
 
-
+Example Screenshots with watermarking
 
 ## Module 8 - Securing User and Application Access
 
+Example Screenshots with watermarking
 
 ## Module 9 - Implementing Elascticity, High Availability, and Monitoring
 
+Example Screenshots with watermarking
 
 ## Module 10 - Automating Your Architecture
 
+Example Screenshots with watermarking
 
 ## Module 11 - Caching Content
 
