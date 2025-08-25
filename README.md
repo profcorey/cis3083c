@@ -1,4 +1,4 @@
-# Cloud Management and Design CIS-3083C
+# CIS-3083C Cloud Management and Design (Fall, Spring, Summer)
 
 Example Screenshots for Lab Assignments with watermarking
 
