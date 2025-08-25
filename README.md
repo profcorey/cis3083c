@@ -48,33 +48,23 @@ Example Screenshots with watermarking
 
 ## Module 11 - Caching Content
 
+Example Screenshots with watermarking
 
 ## Module 12 - Bulding Decoupled Architecture
 
+Example Screenshots with watermarking
 
 ## Module 13 - Building Microservices and Serverless Architectures
 
+Example Screenshots with watermarking
 
 ## Module 14 - Planning for Disaster
 
+Example Screenshots with watermarking
 
 ## Module 15 - Bridging to Certification
 
+Example Screenshots with watermarking
 
 ## Extra Credit
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
