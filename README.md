@@ -2,6 +2,8 @@
 
 Example Screenshots for Lab Assignments with watermarking
 
+NOTE: You may see error messages for some services in the management console. This is normal due to limted access provided by the AWS Academy.
+
 
 ## Module 2 - Introducing Cloud Architecting  
 ### Getting Started with Cloud Shell and gcloud Lab
