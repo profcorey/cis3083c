@@ -11,8 +11,17 @@ NOTE: You may see error messages for some services in the management console. Th
 Example Screenshots with watermarking
 
 ## Module 3 - Adding a Storage Layer
-## Create a Website on S3
+## Module 2: Activity 2 - Create a Website on S3
 
+Activity objectives:
+
+After completing this activity, you will be able to:
+
+Run AWS CLI commands that use IAM and Amazon S3 services.
+
+Deploy a static website to an S3 bucket.
+
+Create a script that uses the AWS CLI to copy files in a local directory to Amazon S3.
 
 
 ## Using AWS Systems Manager
