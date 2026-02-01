@@ -25,15 +25,17 @@ Deploy a static website to an S3 bucket.
 
 Create a script that uses the AWS CLI to copy files in a local directory to Amazon S3.
 
+
+
+
+## Using AWS Systems Manager
+
 ![Widget Manufacturing Dashboard](280129_cis3803c_module2_systems_manager_widget_manufacturing_dashboard_screenshot_with_watermark.png)
 
 ![Widget Manufacturing Dashboard 3 Charts](280129_cis3803c_module2_systems_manager_widget_manufacturing_dashboard_3_charts_screenshot_with_watermark.png)
 
 ![AWSCLI Get Region List of EC2s](280129_cis3803c_module2_task4_awscli_get_region_list_ec2s_screenshot.png)
 
-## Using AWS Systems Manager
-
-Example Screenshots with watermarking
 
 ## Module 4 - Adding a Compute Layer
 ## Creating Amazon EC2 Instances
