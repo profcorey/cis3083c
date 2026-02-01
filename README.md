@@ -25,8 +25,12 @@ Deploy a static website to an S3 bucket.
 
 Create a script that uses the AWS CLI to copy files in a local directory to Amazon S3.
 
+Mom & Pop Website Homepage Original bgcolors:
+![Mom and Pop Website Homepage](260128_final_result_with_result.png)
 
 
+Mom & Pop Website Homepage with bgcolor change:
+![Mom and Pop Website Homepage](260128_cis3803c_module2_mom_and_pop_changed_bgcolors_watermark.png)
 
 ## Using AWS Systems Manager
 
