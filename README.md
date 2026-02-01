@@ -1,9 +1,8 @@
 # CIS-3083C Cloud Management and Design (Fall, Spring, Summer)
 
-Example Screenshots for Lab Assignments with watermarking
+Important: Do not submit End Lab or Lab Complete screenshots as submissions. I need to see the final results of the lab!
 
 NOTE: You may see error messages for some services in the management console. This is normal due to limted access provided by the AWS Academy.
-
 
 ## Module 2 - Introducing Cloud Architecting  
 ### Getting Started with Cloud Shell and gcloud Lab
