@@ -10,6 +10,8 @@ NOTE: You may see error messages for some services in the management console. Th
 
 Example Screenshots with watermarking
 
+
+
 ## Module 3 - Adding a Storage Layer
 ## Module 2: Activity 2 - Create a Website on S3
 
@@ -22,6 +24,9 @@ Run AWS CLI commands that use IAM and Amazon S3 services.
 Deploy a static website to an S3 bucket.
 
 Create a script that uses the AWS CLI to copy files in a local directory to Amazon S3.
+
+![Widget Manufacturing Dashboard](280129_cis3803c_module2_systems_manager_widget_manufacturing_dashboard_screenshot_with_watermark.png)
+
 
 
 ## Using AWS Systems Manager
